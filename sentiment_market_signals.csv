@@ -1,0 +1,26 @@
+Ticker,Headline,Sentiment_Label,Confidence,Weighted_Score,Forward_1D_Return_%
+AAPL,Apple Pay to launch in India next month with Axis Bank- report,NEUTRAL,0.7669,0.0,-0.26
+AAPL,‘RAMageddon’: tech crunch hikes the price of your next iPhone by £100,NEGATIVE,0.9376,-0.9376,-0.26
+AAPL,"Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone",POSITIVE,0.6003,0.6003,-0.26
+AAPL,Your iPhone gives Apple an advantage you may not be comfortable with.,NEUTRAL,0.5908,0.0,-0.26
+AAPL,10 Years Later: 5 Low-Risk Stocks for the Next Year,NEUTRAL,0.9244,0.0,-0.26
+NVDA,Nvidia's CEO Huang says there's a ‘0% chance’ AI ends the world — 4 AI giants are sued over an alleged pact to slow it,NEGATIVE,0.9234,-0.9234,1.34
+NVDA,Why I'm Still Not Buying The Trade Desk Stock After a 90% Drop,NEUTRAL,0.8777,0.0,1.34
+NVDA,These Recent Moves Are Brilliant. Here's Why Robinhood Is the Most Important Player in Crypto Right Now.,NEUTRAL,0.9136,0.0,1.34
+NVDA,What Is Sovereign AI? Inside Wall Street's Next Big AI Trade,NEUTRAL,0.9372,0.0,1.34
+NVDA,"Billionaire Tim Draper Predicts Bitcoin Will Hit $250,000 Within 2 Years. Here's What Needs to Happen.",NEUTRAL,0.926,0.0,1.34
+MSFT,NOK Stock Rises Overnight: Nokia’s EURO STOXX 50 Index Return On Monday Adds To AI-Fueled Momentum,POSITIVE,0.8682,0.8682,-0.8
+MSFT,Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities — And Wall Street Isn’t Looking: ‘When The Music’s Over…’,NEUTRAL,0.5471,0.0,-0.8
+MSFT,"Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",NEUTRAL,0.8357,0.0,-0.8
+MSFT,BofA cuts to the chase on AI data center demand,NEUTRAL,0.5899,0.0,-0.8
+MSFT,"Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a ""Core Holding"" Bought at a ""Highly Compelling Valuation."" Here's Why He's Betting Big on Big Tech.",NEUTRAL,0.7772,0.0,-0.8
+TSLA,3 notable business takes that flew under the radar this week,NEUTRAL,0.841,0.0,-0.53
+TSLA,Dan Ives Puts Tesla-SpaceX Merger at 80% Odds: Will It Become the World's Biggest Company?,NEUTRAL,0.8634,0.0,-0.53
+TSLA,Tesla's Free Cash Flow Went Negative. It Still Has a $43.5 Billion Cash Cushion.,NEGATIVE,0.9564,-0.9564,-0.53
+TSLA,TSLA Stock Looks ‘Slightly Undervalued’ To This Analyst — But The Roadster Is Barely Part Of The Bull Case,NEUTRAL,0.8966,0.0,-0.53
+TSLA,Tesla (TSLA)’s Autopilot Software Wins Over a Sixth European Country,POSITIVE,0.9071,0.9071,-0.53
+AMD,"AMD Stock Jumped 8% Last Week. It Could Bring 325% More, Here’s How.",NEUTRAL,0.7195,0.0,2.7
+AMD,"Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",POSITIVE,0.5922,0.5922,2.7
+AMD,"Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",NEUTRAL,0.5901,0.0,2.7
+AMD,Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix,POSITIVE,0.767,0.767,2.7
+AMD,3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks,NEUTRAL,0.6085,0.0,2.7
